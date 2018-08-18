@@ -9,18 +9,13 @@ active: about
 
 <img name='name_cn' style="width=100px; height:80px;"  src="{{ site.images }}/name_cn.png" />
 
-### Alex Huang
+### Alex Huang's Mail
 
-E-mail: detao76#126.com
+#### <center>detao76@126.com</center>
 
-You can also find me here:
 
-- [GitHub](https://github.com/cnhewin)
+### My Research Interest
 
-### Research Interest
-
-Currently I am focusing on **R&D Management**.
-
-### Anything about IPD, you can contact:
+Currently I am focusing on **R&D Management**. You can also find me here:
 
 ![Alexhuang](/img/wechat_contact.jpg)
